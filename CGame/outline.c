@@ -2,6 +2,7 @@
 
 void ShowOutLine()
 {
+	//system("cls");
 	printf("忙式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式式忖\n");
 	printf("弛                                      弛\n");
 	printf("弛                                      弛\n");

@@ -7,28 +7,23 @@
       "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:outline.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:movement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:block.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:outline.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:movement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:block.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA94AE0C-9AEA-4084-9F5B-45CA0AF843E9}|CGame.vcxproj|solutionrelative:outline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{09ABD809-A784-4FF8-967E-F1871CECADFF}|..\\Project1\\Project1.vcxproj|C:\\Users\\user\\Desktop\\FirstGame\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +41,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "movement.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.c",
-              "RelativeDocumentMoniker": "movement.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.c",
-              "RelativeToolTip": "movement.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T12:09:12.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "movement.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.h",
               "RelativeDocumentMoniker": "movement.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.h",
               "RelativeToolTip": "movement.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T12:08:51.267Z",
+              "WhenOpened": "2025-03-08T11:07:36.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "block.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.c",
               "RelativeDocumentMoniker": "block.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.c",
               "RelativeToolTip": "block.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T11:49:23.507Z",
+              "WhenOpened": "2025-03-08T10:41:37.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "block.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.h",
-              "RelativeDocumentMoniker": "block.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\block.h",
-              "RelativeToolTip": "block.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T11:48:25.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "outline.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.c",
               "RelativeDocumentMoniker": "outline.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.c",
               "RelativeToolTip": "outline.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T11:07:28.88Z",
+              "WhenOpened": "2025-03-08T10:41:02.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "outline.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.h",
-              "RelativeDocumentMoniker": "outline.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\outline.h",
-              "RelativeToolTip": "outline.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T11:07:16.213Z",
+              "DocumentIndex": 1,
+              "Title": "movement.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.c",
+              "RelativeDocumentMoniker": "movement.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\movement.c",
+              "RelativeToolTip": "movement.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T10:31:06.134Z",
               "EditorCaption": ""
             },
             {
@@ -128,11 +97,24 @@
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\main.c*",
-              "RelativeToolTip": "main.c*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T10:45:13.801Z",
+              "WhenOpened": "2025-03-08T10:27:35.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FirstGame\\Project1\\main.c",
+              "RelativeDocumentMoniker": "..\\Project1\\main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\Project1\\main.c",
+              "RelativeToolTip": "..\\Project1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T09:48:12.657Z",
               "EditorCaption": ""
             }
           ]

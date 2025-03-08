@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 #include <Windows.h>
-#include <conio.h> 
+#include <conio.h>  //_kbhit
 #include <stdlib.h> //rand 
 #include <stdbool.h> // while,sleep
 #include "block.h"
@@ -17,16 +17,24 @@
 
 
 int playerX = 10;
-int playerY = 5;
-bool moveRight = false;
+int playerY = 10;
+int blockX = 16;
+int blockY = 11;
+
+
+
+
+
 int main()
 {
 	// 1.바탕 라인만들기
 	ShowOutLine();
+	
 	// 2.플레이어 만들기
-	PlayerMove(playerX,playerY); //(1,1) (38,18)
-	Player();
-
+	//Player();
+	//PlayerMove(playerX,playerY); //(1,1) (38,18)
+	//RandomBlock();
+	//RandomBlockMove(blockX, blockY);//(1,1) (38,18)
 	while(1)
 	{
 		if (_kbhit())
@@ -34,40 +42,58 @@ int main()
 			if (GetAsyncKeyState(VK_UP) & 0x8000)
 			{
 				playerY -= 1;
+				if(playerY < 1)
+				{
+					playerY = 1;
+				}
 			}
 			if (GetAsyncKeyState(VK_DOWN) & 0x8000)
 			{
 				playerY += 1;
+				if (playerY > 18)
+				{
+					playerY = 18;
+				}
 			}
 			if (GetAsyncKeyState(VK_LEFT) & 0x8000)
 			{
 				playerX -= 2;
+				if (playerX < 1)
+				{
+					playerX = 1;
+				}
 			}
 			if (GetAsyncKeyState(VK_RIGHT) & 0x8000)
 			{
 				playerX += 2;
-			}
-			else
-			{
-
+				if (playerX > 37)
+				{
+					playerX = 37;
+				}
 			}
 			
 			
-		
 		}
 
-		PlayerMove(playerX,playerY); //(1,1) (38,18)
-		Player();
 
-		Sleep(50);
+		system("cls");
+		ShowOutLine();
+		PlayerMove(playerX,playerY); //(1,1) (38,18)
+		//Player();
+		RandomBlockMove(blockX, blockY);//(1,1) (38,18)
+		blockMoving(blockX,blockY);
+		//RandomBlock();
+		Sleep(70);
+
 	}
+	return 0;
+}
+
 	// 2-1.플레이어가 움직일 블록만들기(#심화-블럭을 랜덤하게 4개생성)
 	//HollMove(17,9);
 	//Holl();
 
 	// 2-2.플레이어가 블럭을 넣을 공간을 중앙에 만들기(#심화-공간 랜덤생성)
-	//RandomBlockMove(38,18);//(1,1) (38,18)
-	//RandomBlock();
 	// 
 	// 3.플레이어를 라인 안에 넣기
 	// 
@@ -84,8 +110,6 @@ int main()
 	// 8-1.점수구현하면서 시간도같이 제한시간 1분
 	// 
 	// 9.시간종료(= 게임오버)
-	
-}
 
 
 
@@ -93,6 +117,7 @@ int main()
 
 
 
+//bool moveRight = false;
 #if 0
 
 if (GetAsyncKeyState(VK_RIGHT) & 0x8000)

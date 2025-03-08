@@ -2,12 +2,12 @@
 
 void Player()
 {
-	printf("©Ü\n");
+	printf("©Ü");
 }
 
 void RandomBlock()
 {
-	printf("$\n");
+	printf("$");
 }
 
 void Holl()
