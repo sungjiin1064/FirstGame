@@ -49,8 +49,7 @@
               "RelativeToolTip": "movement.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T11:07:36.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:07:36.992Z"
             },
             {
               "$type": "Document",
@@ -62,8 +61,7 @@
               "RelativeToolTip": "block.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T10:41:37.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T10:41:37.616Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "outline.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T10:41:02.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T10:41:02.494Z"
             },
             {
               "$type": "Document",
@@ -88,8 +85,7 @@
               "RelativeToolTip": "movement.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T10:31:06.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T10:31:06.134Z"
             },
             {
               "$type": "Document",
@@ -99,7 +95,7 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\FirstGame\\CGame\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-08T10:27:35.015Z",
               "EditorCaption": ""
@@ -114,8 +110,7 @@
               "RelativeToolTip": "..\\Project1\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T09:48:12.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T09:48:12.657Z"
             }
           ]
         }
