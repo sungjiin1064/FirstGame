@@ -21,10 +21,6 @@ int playerY = 10;
 int blockX = 16;
 int blockY = 11;
 
-
-
-
-
 int main()
 {
 	// 1.바탕 라인만들기
@@ -75,7 +71,6 @@ int main()
 			
 		}
 
-
 		system("cls");
 		ShowOutLine();
 		PlayerMove(playerX,playerY); //(1,1) (38,18)
@@ -84,7 +79,6 @@ int main()
 		blockMoving(blockX,blockY);
 		//RandomBlock();
 		Sleep(70);
-
 	}
 	return 0;
 }
